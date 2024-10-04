@@ -10,8 +10,9 @@
 	        color: #3b99e0;
             margin-bottom: 20px;  
         } 
-.block-heading,p{
+.block-heading+p{
 	        text-align:center;
+	        color: #3b99e0;
             margin-bottom: 20px;
 }
 
